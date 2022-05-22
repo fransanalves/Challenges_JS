@@ -1,0 +1,17 @@
+{
+  "name": "testing_files",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "testing with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "francisca",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
