@@ -8,5 +8,5 @@ describe('', () => {
         expect(returnCharInIndex("olá, mundo!", 4)).toBe(",");
         expect(returnCharInIndex("olá, mundo!", 5)).toBe("m");
         expect(returnCharInIndex("olá, mundo!", 6)).toBe("u");
-    });
-});
+    })
+})
